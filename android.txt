@@ -1,0 +1,3 @@
+title=OSCControl
+author=elias
+orientation=landscape
