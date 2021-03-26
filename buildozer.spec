@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
 requirements = python3,kivy,oscpy
-orientation = portrait
+orientation = landscape
 author = Elias Kesh
 android.presplash_color = 
 
